@@ -33,7 +33,7 @@
     "Portrait",
     "Landscape"
   ],
-  "AndroidHardwareAcceleration": "false",
+  "AndroidHardwareAcceleration": "true",
   "AndroidVersionCode": "1",
   "iOSStatusBarStyle": "Default",
   "iOSDeviceFamily": [
@@ -52,5 +52,6 @@
   ],
   "ProjectGuid": "{8153a1dd-8591-4620-8c27-6fc63d5106e7}",
   "WP8PublisherID": "{7c62fb9d-e968-4bd7-970d-f82bd0a47bab}",
-  "WP8ProductID": "{c4b78029-c2e8-4ee0-bee9-8639ed4cada2}"
+  "WP8ProductID": "{c4b78029-c2e8-4ee0-bee9-8639ed4cada2}",
+  "iOSDeploymentTarget": "7.1"
 }

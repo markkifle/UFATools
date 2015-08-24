@@ -1,5 +1,5 @@
 var Views;
 (function(views){
-    Views.main = "comp/main/main";
-    Views.login = "comp/login/login"
+    Views.main = "modules/main/main";
+    Views.login = "modules/login/login"
 })(Views = exports.Views || (exports.Views ={}));
