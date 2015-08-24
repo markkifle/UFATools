@@ -1,0 +1,35 @@
+{
+	"name": "UFATools",
+	"version": "1.0.0",
+	"description": "Tools to manage Urban Forstry assets, built with the NativeScript framework",
+	"main": "app/package.json",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/markkifle/UFATools.git"
+	},
+	"keywords": [
+		"nativescript",
+		"ufa",
+		"ddot",
+		"trees"
+	],
+	"author": "Markos Yeterawork",
+	"license": "BSD",
+	"bugs": {
+		"url": "https://github.com/markkifle/UFATools/issues"
+	},
+	"homepage": "https://github.com/markkifle/UFATools",
+	"devDependencies": {
+	},
+	"nativescript": {
+		"tns-android": {
+			"version": "1.2.1"
+		},
+		"tns-ios": {
+			"version": "1.2.2"
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"name": "UFATools",
+	"main": "app.js",
+	"version": "1.1.0",
+	"author": "Markos Yeterawork",
+	"description": "Tools to manage trees fro DC Urban Forestry Administration (UFA)",
+	"license": "BSD",
+	"keywords": [
+		"ddot",
+		"mobile",
+		"nativescript",
+		"{N}",
+		"tns",
+		"trees",
+		"dc"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/markkifle/UFATools.git"
+	}
+}
